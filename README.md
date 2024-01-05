@@ -1,4 +1,4 @@
-![logo](https://github.com/Ahmed-tech01/Ahmed-tech/blob/main/Black%20Futuristic%20Software%20Engineer%20Business%20Card.png)
+![logo](https://github.com/Ahmed-tech01/Ahmed-tech01/blob/main/Black%20Futuristic%20Software%20Engineer%20Business%20Card.png)
 <h1 align="center">Hi 👋, I'm Ahmed-tech01</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
