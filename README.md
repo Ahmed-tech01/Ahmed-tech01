@@ -24,9 +24,21 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-tech01&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
+# 💫 About Me:
+🌱 I’m currently learning Web app development course<br><br>💬 Ask me about structure and styling<br><br>📫 How to reach me m.ahmedgenius121@gmail.com
+
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-tech01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-tech01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-tech01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ahmed-tech01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ahmed-tech01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
   <a href="https://github.com/ahmed-tech01">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-tech01&theme=dark&hide_border=true&stroke=f53b3b"/>
