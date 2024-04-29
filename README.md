@@ -24,7 +24,8 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Ahmed-tech01&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-tech01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=Ahmed-tech01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <p align="center">
   <a href="https://github.com/ahmed-tech01">      
